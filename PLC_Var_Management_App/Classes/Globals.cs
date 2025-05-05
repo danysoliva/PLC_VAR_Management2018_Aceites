@@ -25,7 +25,7 @@ namespace PLC_Var_Management_App.Classes
 
         //APMS (Aquafeed Pocess Management System)
         public static string APMS_Server = @"AQFSVR008\AQFSVR008";
-        public static string APMS_DB_User = "sa";
+        public static string APMS_DB_User = "mrt";//para liberar el usuario sa
         public static string APMS_DB_Pass = "AquaF33dHN2017";
         public static string APMS_ActiveDB = "APMS";
 
